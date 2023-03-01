@@ -35,3 +35,9 @@ The [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/datasets/plameneduardo/s
     MobileNet    |      93.15%      |       93.75%      |     90.28%     |      91.98%
     MobileNetV2  |      92.74%      |       91.28%      |     92.13%     |      91.70%
 ------------------------------------------------------------------------------------------
+
+
+# Other Contributors
+
+1. [Monjure Mowla Abir](https://github.com/abir2727) 
+2. [Kaji Fuad Bin Akhter](https://github.com/FuadBinAkhter)
